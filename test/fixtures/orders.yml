@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  product: one
+  price: 
+  charge_id: MyString
+  customer_id: MyString
+  status: 1
+  token: MyString
+  error_message: MyString
+  payment_gateway: MyString
+
+two:
+  user: two
+  product: two
+  price: 
+  charge_id: MyString
+  customer_id: MyString
+  status: 1
+  token: MyString
+  error_message: MyString
+  payment_gateway: MyString
